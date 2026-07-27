@@ -13,4 +13,9 @@ A simple NGO awareness webpage developed using **HTML** and **CSS** as part of m
 - CSS3
 
 ## 🌐 Live Demo
+
+🔗 **Vercel (Recommended):**  
+https://inamigos-awareness-webpage-task1.vercel.app
+
+🔗 **GitHub Pages (Backup):**  
 https://samruddhihs06.github.io/InAmigos-Awareness-Webpage/
